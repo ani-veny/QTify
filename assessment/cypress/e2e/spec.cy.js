@@ -1,7 +1,7 @@
 describe("Qtify Automation", () => {
   beforeEach(() => {
-    cy.visit("https://rahul-sessions-qtify.netlify.app/");
-    // cy.visit("https://rahul-sessions-qtify.netlify.app/");
+    cy.visit("https://aditya-singh-criodo-me-qtify-fpd1p7b8o-adishyams-projects.vercel.app");
+    // cy.visit("https://aditya-singh-criodo-me-qtify-fpd1p7b8o-adishyams-projects.vercel.app");
   });
   describe("Navbar", () => {
     it("Should contain logo, search bar, and a button", () => {
